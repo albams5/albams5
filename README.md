@@ -11,7 +11,7 @@
   
 - ⚡ Fun fact **Estoy aprendiendo coreano**
   
-- [Mi LinkedIn] (https://www.linkedin.com/in/alba-martin-saez/)
+- 📍 Mi LinkedIn (https://www.linkedin.com/in/alba-martin-saez/)
 
 
 <h3 align="left">Lenguajes y tecnologías:</h3>
