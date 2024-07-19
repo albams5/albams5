@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alba Martín</h1>
 <h3 align="center">A passionate full stack developer from Spain</h3>
 
-- 🔭  Right now, I'm working on [Mobee App](https://github.com/albams5/movie-hub)
+- 🔭  Right now, I'm working on [My Portfolio](https://github.com/albams5/portfolio)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **JWT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/albams5](https://github.com/albams5)
 
