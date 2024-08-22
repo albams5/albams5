@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alba Martín</h1>
 <h3 align="center">A passionate full stack developer from Spain</h3>
 
-- 🔭  Right now, I'm working on [My Portfolio](https://github.com/albams5/portfolio)
+- 🔭  Right now, I'm working on [Workout App](https://github.com/albams5/workout-app)
 
 - 🌱 I’m currently learning **JWT**
 
